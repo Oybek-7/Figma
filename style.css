@@ -1,0 +1,49 @@
+body{
+    display: flex;
+}
+img{
+    height: 600px;
+}
+form{
+    color: white;
+    padding: 90px;
+    margin-left: 8%;
+    height: ;
+}
+#one{
+    border-radius: 20px;
+    color: white;
+    background-color:blueviolet ;
+    height: 45px;
+    padding: 10px;
+    
+}
+h1{
+    color: black;
+      text-align: center;
+}
+p{
+    color: grey;
+      text-align: center;
+      font-size: px;
+}
+a{
+    color: black;
+}
+label{
+    color: black;
+    
+}
+button{
+    background-color: white;
+    color: grey;
+      text-align: center;
+    border-radius: 12px;  
+    height: 30px;
+    
+}
+#two{
+    font-size: 12px;
+    padding: ;
+}
+
